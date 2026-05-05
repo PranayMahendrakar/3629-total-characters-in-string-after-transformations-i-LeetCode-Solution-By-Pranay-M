@@ -7,3 +7,4 @@
 - [2026-04-20T08:46:02Z] chore: update dependencies to latest versions
 - [2026-04-20T12:39:10Z] test: add unit tests for core module
 - [2026-05-05T17:01:32Z] chore: update dependencies to latest versions
+- [2026-05-05T16:21:08Z] fix: handle null pointer exception

@@ -8,3 +8,4 @@
 - [2026-04-20T12:39:10Z] test: add unit tests for core module
 - [2026-05-05T17:01:32Z] chore: update dependencies to latest versions
 - [2026-05-05T16:21:08Z] fix: handle null pointer exception
+- [2026-05-05T18:59:18Z] chore: remove deprecated API calls
